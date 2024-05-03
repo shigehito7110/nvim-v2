@@ -1,2 +1,4 @@
-require('internal')
-require('external')
+require('base')
+require('lsp')
+require('keymap')
+require('plugins')
