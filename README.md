@@ -1,24 +1,18 @@
-## Sample
-  
-         fjjjj
-- [ ] test
-- [ ] test
-- [ ] test
-sample q
+# Nvim
 
-- [ ] test
+## Plugins
+ - auto-save
+ - nvim-autopaiers 
+ - nvim-lualine 
+ - nvim-tree 
+ - telescope 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
 
-- [ ] test
-- [ ] test
-- [ ] test
-- [ ] test
-- [ ] test
-- [ ] test
-- [ ] test
-- [ ] test
-- [ ] test
-- [ ] test
-- [ ] test
-
-- [ ] test
-- [ ] test
